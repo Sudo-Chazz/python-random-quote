@@ -1,5 +1,5 @@
 Responsive is better than fast
-It’s not fully shipped until it’s fast
+It's not fully shipped until it's fast
 Anything added dilutes everything else
 Practicality beats purity
 Approachable is better than simple
@@ -12,3 +12,6 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+That's the thing about people who think they hate computers. What they really hate is lousy programmers.
+Keep it simple stupid
+software is like sex: it's better when it's free
